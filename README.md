@@ -1,6 +1,6 @@
 # NodejS-Docker-tutorial
 
-##Build Image
+## Build Image
 docker build -t nodejs-app .
 
 Run the App (Container name) (Image name)
